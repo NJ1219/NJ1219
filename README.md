@@ -3,7 +3,9 @@
 
 This is Nitesh Jain from Toronto, Canada. I am an Analyst who loves to play with data. It could be stock data or marketing data, I try to make sense out of it through my analytical skills. Advanced user of MS Excel for Analysis and Modeling. Intermediate user of Python, PostgreSQL and Power BI. Currently learning AI & ML algorithms. 
 
-Looking for suitable job opportunities. Reach out to me at niteshjain1219@gmail.com for suitable positions in your organization.
+Looking for suitable job opportunities. :persevere:
+Check out my professional profile at 
+<a href="https://www.linkedin.com/in/nitesh1219/"><img height="28" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a> and reach out for any suitable opportunities in your organization!! :relaxed:
 
 
 ## 🔧 Technologies & Tools
@@ -28,7 +30,7 @@ Looking for suitable job opportunities. Reach out to me at niteshjain1219@gmail.
 - 🔭 I’m currently working on Time Series and Classification Algorithms for ML
 - 🌱 I’m currently learning: Machine Learning Algorithms and Algorithmic Trading
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: Mail me at niteshjain1219@gmail.com
+- 📫 How to reach me: Mail me at niteshjain1219@gmail.com or Connect on [LinkedIn](https://www.linkedin.com/in/nitesh1219/)
 - ⚡ Fun fact: I am a tester for the games that my 8-year old son develops in Java. :)
 <!--
 **NJ1219/NJ1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
