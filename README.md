@@ -1,8 +1,10 @@
-### Hi there 👋
-### Hello, folks! <img src="https://raw.githubusercontent.com/Nj1219/NJ1219/master/wave.gif" width="30px">
+Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/NJ1219/NJ1219/master/wave.gif" width="30px">
 
 
+[![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=NJ1219)](https://github.com/NJ1219/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
 
 
 
