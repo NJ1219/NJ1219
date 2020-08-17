@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+
+
+
+- 📫 How to reach me: Mail me at niteshjain1219@gmail.com
+- ⚡ Fun fact: I am a tester for the games that my 8-year old son develops on Java. :)
 <!--
 **NJ1219/NJ1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
