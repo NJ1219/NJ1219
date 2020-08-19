@@ -1,5 +1,7 @@
 # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😃
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 This is Nitesh Jain from Toronto, Canada. I am an Analyst who loves to play with data. It could be stock data or marketing data, I try to make sense out of it through my analytical skills. Advanced user of MS Excel for Analysis and Modeling. Intermediate user of Python, PostgreSQL and Power BI. Currently learning AI & ML algorithms. 
 
@@ -23,9 +25,9 @@ Check out my professional profile at
 </a>
 
 
-
+--
 [![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=NJ1219)](https://github.com/NJ1219/github-readme-stats)
-
+--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
 
 - 🔭 I’m currently working on Time Series and Classification Algorithms for ML
@@ -33,6 +35,10 @@ Check out my professional profile at
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Mail me at niteshjain1219@gmail.com or Connect on [LinkedIn](https://www.linkedin.com/in/nitesh1219/)
 - ⚡ Fun fact: I am a tester for the games that my 8-year old son develops in Java. :)
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="480" height="270" />
+
+
 <!--
 **NJ1219/NJ1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
