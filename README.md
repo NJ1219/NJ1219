@@ -28,7 +28,8 @@ Check out my professional profile at
 <!--
 [![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=NJ1219)](https://github.com/NJ1219/github-readme-stats)-->
 </a> <img align="right" alt="GIF" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="480" height="240" />
-< img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
 
 
 - 🔭 I’m currently working on Time Series and Classification Algorithms for ML
