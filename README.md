@@ -3,7 +3,7 @@
 
 This is Nitesh Jain from Toronto, Canada. I am an Analyst who loves to play with data. It could be stock data or marketing data, I try to make sense out of it through my analytical skills. Advanced user of MS Excel for Analysis and Modeling. Intermediate user of Python, PostgreSQL and Power BI. Currently learning AI & ML algorithms. 
 
-Looking for suitable job opportunities. :persevere:
+Looking for suitable job opportunities.
 
 Check out my professional profile at 
 <a href="https://www.linkedin.com/in/nitesh1219/"><img height="28" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a> and reach out for any suitable opportunities in your organization!! :relaxed:
