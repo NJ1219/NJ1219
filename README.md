@@ -32,7 +32,7 @@ Check out my professional profile at
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
 
 
-- 🔭 I’m currently working on Time Series and Classification Algorithms for ML
+- 🔭 I’m currently working on Natural Language Processing and AWS
 - 🌱 I’m currently learning: Machine Learning Algorithms and Algorithmic Trading
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Mail me at niteshjain1219@gmail.com or Connect on [LinkedIn](https://www.linkedin.com/in/nitesh1219/)
