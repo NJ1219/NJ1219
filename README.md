@@ -1,6 +1,6 @@
 # Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😃
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!---  </a>   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />     --->
 
 
 This is Nitesh Jain from Toronto, Canada. I am an Analyst who loves to play with data. It could be stock data or marketing data, I try to make sense out of it through my analytical skills. Advanced user of MS Excel for Analysis and Modeling. Intermediate user of Python, PostgreSQL and Power BI. Currently learning AI & ML algorithms. 
