@@ -21,7 +21,7 @@ Check out my professional profile at
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NJ1219&repo=UofT-Project-1-Group-5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 </a>
 
-<a href="https://github.com/NJ1219/https://github.com/NJ1219/AlgoTrading-Project-using-Machine-Learning.git">
+<a href="https://github.com/NJ1219/AlgoTrading-Project-using-Machine-Learning.git">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NJ1219&repo=AlgoTrading-Project-using-Machine-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 </a>
 
