@@ -3,7 +3,7 @@
 <!---  </a>   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />     --->
 
 
-This is Nitesh Jain from Toronto, Canada. I am an Analyst who loves to play with data. It could be stock data or marketing data, I try to make sense out of it through my analytical skills. Advanced user of MS Excel for Analysis and Modeling. Intermediate user of Python, PostgreSQL and Power BI. Currently learning AI & ML algorithms. 
+This is Nitesh Jain from Toronto, Canada. I am an Analyst who loves to play with data. It could be stock data or marketing data, I try to make sense out of it through my analytical skills. Advanced user of MS Excel for Analysis and Modeling. Intermediate user of Python, PostgreSQL and Power BI. Currently applying AI & ML algorithms to stock markets. 
 
 Looking for suitable job opportunities.
 
@@ -37,11 +37,11 @@ Check out my professional profile at
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
 
 
-- 🔭 I’m currently working on Natural Language Processing and AWS
-- 🌱 I’m currently learning: Machine Learning Algorithms and Algorithmic Trading
+- 🔭 I’m currently working on Machine Learning Algorithms for Algorithmic Trading
+- 🌱 I’m currently learning: Solidity
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Mail me at niteshjain1219@gmail.com or Connect on [LinkedIn](https://www.linkedin.com/in/nitesh1219/)
-- ⚡ Fun fact: I am a tester for the games that my 8-year old son develops in Java. :)
+- ⚡ Fun fact: I am a tester for the games that my 8-year old son develops in JavaScript. :)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="1080" height="270" /> 
 
