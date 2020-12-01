@@ -29,6 +29,10 @@ Check out my professional profile at
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NJ1219&repo=PyViz-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/NJ1219/Project-3-Movie-Recommender-System">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NJ1219&repo=Project-3-Movie-Recommender-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!--
 [![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=NJ1219)](https://github.com/NJ1219/github-readme-stats)-->
