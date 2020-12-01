@@ -37,7 +37,7 @@ Check out my professional profile at
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJ1219&theme=<THEME_NAME>" />
 
 
-- 🔭 I’m currently working on Machine Learning Algorithms for Algorithmic Trading
+- 🔭 I’m currently working on Machine Learning Algorithms for Investing and Trading in stocks
 - 🌱 I’m currently learning: Solidity
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Mail me at niteshjain1219@gmail.com or Connect on [LinkedIn](https://www.linkedin.com/in/nitesh1219/)
