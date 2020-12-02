@@ -17,8 +17,8 @@ Check out my professional profile at
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MSExcel-informational?style=flat&logo=MSExcel&logoColor=white&color=2bbc8a)
 
-<a href="https://github.com/NJ1219/UofT-Project-1-Group-5">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NJ1219&repo=UofT-Project-1-Group-5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
+<a href="https://github.com/NJ1219/UofT-Project1">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NJ1219&repo=UofT-Project1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 </a>
 
 <a href="https://github.com/NJ1219/AlgoTrading-Project-using-Machine-Learning.git">
